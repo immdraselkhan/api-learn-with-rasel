@@ -28,7 +28,7 @@ app.get('/courses/categories', (req, res) => {
 app.get('/coursesbycategory/:categoryName', (req, res) => {
   const id = req.params.categoryName;
   const coursesByCategory = courses.data.filter(course => course.category == id) || [];
-  res.send(coursesByCategory)
+  res.send(coursesByCategory);
 });
 
 app.get('/course/:courseSlug', (req, res) => {
