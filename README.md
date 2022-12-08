@@ -2,6 +2,11 @@
 
 Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs.
 
+#### Live Website - [https://learn-with-rasel.web.app](https://learn-with-rasel.web.app)
+#### Live Site Code - [https://github.com/immdraselkhan/api-learn-with-rasel](https://github.com/immdraselkhan/api-learn-with-rasel)
+
+#### API Server - [https://api-learnwithrasel.vercel.app](https://api-learnwithrasel.vercel.app)
+
 ## [CORS](https://expressjs.com/en/resources/middleware/cors.html)
 
 CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
